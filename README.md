@@ -1,5 +1,3 @@
 # DEMO-9
-class Solution {
-public:
-    int lengthOfLastWord(string s) {
- 
+
+(https://leetcode.com/problemset/)
